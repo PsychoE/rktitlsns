@@ -63,5 +63,4 @@ git merge <branch_name> - слияние двух веток
 ## Вот.
 
 ![ы](https://media.tenor.com/9kpovgAyfLYAAAAC/%D1%83%D0%BF%D1%8F%D1%87%D0%BA%D0%B0-upyachka.gif)
-![ыЫ](https://media.tenor.com/9kpovgAyfLYAAAAC/%D1%83%D0%BF%D1%8F%D1%87%D0%BA%D0%B0-upyachka.gif)
 
